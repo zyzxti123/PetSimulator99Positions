@@ -897,7 +897,7 @@ return {
 				["DisplayName"] = "Exclusive Daycare Machine", --string, string
 			}, --string, table
 		}, --string, table
-	}
+	},
 	["World3"] = {
 		["Upgrades"] = {
 			[1] = {
