@@ -1,5 +1,5 @@
 return {
-	["World1] = {
+	["World1"] = {
 		["Upgrades"] = {
 			[1] = {
 				["Position"] = Vector3.new(598.006042, 22.347389, -236.983093), --string, Vector3
